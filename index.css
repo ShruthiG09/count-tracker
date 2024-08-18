@@ -1,5 +1,5 @@
 body {
-    background-image: url("people.jpg");
+    background-image: url("moonstar.png");
     background-size: cover;
     font-family: 'Garamond', sans-serif, 'Open Sans', 'Helvetica Neue';
     text-align: center;
@@ -8,7 +8,7 @@ body {
 
 .container {
     background: white;
-    opacity: 0.9;
+    opacity: 0.8;
     max-width: 60%;
     margin: auto;
     border: 1px solid black;
@@ -50,4 +50,3 @@ button {
 #save-el {
     font-weight: bold;
 }
-
